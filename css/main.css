@@ -1,0 +1,15 @@
+body { font-family: "helvetica";}
+table {
+	border-collapse: collapse;
+	background-color: paleturquoise;
+}
+table, th, td { border: 1px solid darkgrey; }
+th, td {
+	text-align: left; 
+	padding: 3px;
+}
+th {
+	background-color: darkblue;
+	color: white;
+	font-weight: bold;
+}
